@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Update docs building code (#7601)
