@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
