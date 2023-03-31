@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
