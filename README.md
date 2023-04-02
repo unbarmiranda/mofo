@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Add integrations/gradio Docs page (#7935)
