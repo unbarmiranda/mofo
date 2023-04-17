@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Update Docs Home and Neural Magic pages (#7243)
