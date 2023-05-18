@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Clean up unused imgsz (#7771)
