@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
