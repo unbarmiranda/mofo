@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Merge pull request #22 from SkalskiP/patch-1
