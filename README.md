@@ -1,1 +1,1 @@
-Added check of parameter type before setting required_grad=True for frozen layers (#8318)
+Elaborate Train and Predict mode docs arguments (#8137)
