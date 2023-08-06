@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Add YOLOv8 LibTorch C++ inference example (#7090)
