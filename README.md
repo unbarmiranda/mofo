@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Fix cmake requirements for ARM64 (#8589)
