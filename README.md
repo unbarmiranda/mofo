@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Rename model_id to model.id (#8447)
