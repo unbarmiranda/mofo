@@ -1,1 +1,1 @@
-fix non-coco val
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
