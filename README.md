@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
