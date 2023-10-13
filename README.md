@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Add PaddlePaddle Docs Integrations Page (#8858)
