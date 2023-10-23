@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+ultralytics 8.1.20 add YOLOv8x-World support (#8539)
