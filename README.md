@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Resize angle, count, and stage on keypoint number change (#7598)
