@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
