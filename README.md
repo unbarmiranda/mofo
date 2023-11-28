@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Update format.yml to pull_request_target (#7460)
