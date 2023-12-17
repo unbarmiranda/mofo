@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
