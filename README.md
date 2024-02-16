@@ -1,1 +1,1 @@
-fix predict with class filter
+docs: update view-results-in-terminal.md (#66)
