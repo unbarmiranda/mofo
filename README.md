@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
