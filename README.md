@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Fix bbox2segment converter (#7814)
