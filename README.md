@@ -1,1 +1,1 @@
-added badges (#45)
+Explorer with LanceDB, Actions and Docs updates (#7487)
