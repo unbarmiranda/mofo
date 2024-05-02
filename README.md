@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Fix docs links (#7096)
