@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+docs: update view-results-in-terminal.md (#66)
