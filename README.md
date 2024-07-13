@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Resize angle, count, and stage on keypoint number change (#7598)
