@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
