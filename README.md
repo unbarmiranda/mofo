@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Move Explorer tests to scheduled CI (#8305)
