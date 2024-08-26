@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Update H1 in Explorer API docs (#7813)
