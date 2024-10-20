@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
