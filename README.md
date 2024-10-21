@@ -1,1 +1,1 @@
-Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
+ultralytics 8.0.230 TensorRT export hang fix (#7180)
