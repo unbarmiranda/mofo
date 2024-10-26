@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Python refactorings and simplifications (#7549)
